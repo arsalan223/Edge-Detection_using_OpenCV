@@ -2,13 +2,13 @@
 
 The program will detect edges in given image/video using Canny Edge Detection Method comes with OpenCV.
 
-## Edge Detector for Images:
+## 1) Edge Detector for Images:
 works on images, threshold values can be manipulated via sliders.
 
-## Edge Detector for Video/Webcam:
+## 2) Edge Detector for Video/Webcam:
 Works on Webcam footage or Video files, window will close on pressing 'q'.
 
-## Edge Detector for Video/Webcam (with Sliders):
+## 3) Edge Detector for Video/Webcam (with Sliders):
 This one is for testing and setting the desired values for thresholds.
 Threshold values can be manipulated via sliders.
 
